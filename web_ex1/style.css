@@ -1,0 +1,19 @@
+body {
+    background: orangered;
+    
+    h1 {
+        color: yellow;
+    }
+    p5 {
+        color: white;
+    }
+}
+
+img {
+    border: 4px dashed yellow;
+    margin-left: 350px;
+}
+a {
+    color: yellow;
+    text-decoration: none;
+}
